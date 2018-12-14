@@ -1,0 +1,216 @@
+Iteration 1 - 1000 iterations & 1.0 learning rate
+-------------------------------------------------
+Learning constant: 1.0000
+Number of iterations: 1000
+Emails classified correctly: 447/478
+Accuracy before filtering: 93.5146%
+Filtered emails classified correctly: 441/478
+Filtered accuracy: 92.2594%
+
+
+Iteration 2 - 1000 iterations & 0.5 learning rate
+-------------------------------------------------
+Learning constant: 0.5000
+Number of iterations: 1000
+Emails classified correctly: 443/478
+Accuracy before filtering: 92.6778%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 3 - 500 iterations & 1.0 learning rate
+-------------------------------------------------
+Learning constant: 1.0000
+Number of iterations: 500
+Emails classified correctly: 432/478
+Accuracy before filtering: 90.3766%
+Filtered emails classified correctly: 433/478
+Filtered accuracy: 90.5858%
+
+
+
+Iteration 4 - 500 iterations & 0.5 learning rate
+-------------------------------------------------
+Learning constant: 0.5000
+Number of iterations: 500
+Emails classified correctly: 436/478
+Accuracy before filtering: 91.2134%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 5 - 2000 iterations & 1.0 learning rate
+-------------------------------------------------
+Learning constant: 1.0000
+Number of iterations: 2000
+Emails classified correctly: 447/478
+Accuracy before filtering: 93.5146%
+Filtered emails classified correctly: 441/478
+Filtered accuracy: 92.2594%
+
+
+
+Iteration 6 - 2000 iterations & 0.5 learning rate
+-------------------------------------------------
+Learning constant: 0.5000
+Number of iterations: 2000
+Emails classified correctly: 443/478
+Accuracy before filtering: 92.6778%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 7 - 10000 iterations & 1.0 learning rate
+-------------------------------------------------
+Learning constant: 1.0000
+Number of iterations: 10000
+Emails classified correctly: 442/478
+Accuracy before filtering: 92.4686%
+Filtered emails classified correctly: 441/478
+Filtered accuracy: 92.2594%
+
+
+
+Iteration 8 - 10000 iterations & 0.5 learning rate
+-------------------------------------------------
+Learning constant: 0.5000
+Number of iterations: 10000
+Emails classified correctly: 443/478
+Accuracy before filtering: 92.6778%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 9 - 1000 iterations & 0.1 learning rate
+-------------------------------------------------
+Learning constant: 0.1000
+Number of iterations: 1000
+Emails classified correctly: 441/478
+Accuracy before filtering: 92.2594%
+Filtered emails classified correctly: 436/478
+Filtered accuracy: 91.2134%
+
+
+
+Iteration 10 - 500 iterations & 0.1 learning rate
+-------------------------------------------------
+Learning constant: 0.1000
+Number of iterations: 500
+Emails classified correctly: 445/478
+Accuracy before filtering: 93.0962%
+Filtered emails classified correctly: 434/478
+Filtered accuracy: 90.7950%
+
+
+
+Iteration 11 - 2000 iterations & 0.1 learning rate
+-------------------------------------------------
+Learning constant: 0.1000
+Number of iterations: 2000
+Emails classified correctly: 441/478
+Accuracy before filtering: 92.2594%
+Filtered emails classified correctly: 436/478
+Filtered accuracy: 91.2134%
+
+
+
+Iteration 12 - 10000 iterations & 0.1 learning rate
+-------------------------------------------------
+Learning constant: 0.1000
+Number of iterations: 10000
+Emails classified correctly: 441/478
+Accuracy before filtering: 92.2594%
+Filtered emails classified correctly: 436/478
+Filtered accuracy: 91.2134%
+
+
+
+Iteration 13 - 1000 iterations & 0.66 learning rate
+-------------------------------------------------
+Learning constant: 0.6600
+Number of iterations: 1000
+Emails classified correctly: 443/478
+Accuracy before filtering: 92.6778%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 14 - 500 iterations & 0.66 learning rate
+-------------------------------------------------
+Learning constant: 0.6600
+Number of iterations: 500
+Emails classified correctly: 436/478
+Accuracy before filtering: 91.2134%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 15 - 2000 iterations & 0.66 learning rate
+-------------------------------------------------
+Learning constant: 0.6600
+Number of iterations: 2000
+Emails classified correctly: 443/478
+Accuracy before filtering: 92.6778%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 16 - 10000 iterations & 0.66 learning rate
+-------------------------------------------------
+Learning constant: 0.6600
+Number of iterations: 10000
+Emails classified correctly: 443/478
+Accuracy before filtering: 92.6778%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 17 - 100 iterations & 1.0 learning rate
+-------------------------------------------------
+Learning constant: 1.0000
+Number of iterations: 100
+Emails classified correctly: 432/478
+Accuracy before filtering: 90.3766%
+Filtered emails classified correctly: 433/478
+Filtered accuracy: 90.5858%
+
+
+
+Iteration 18 - 100 iterations & 0.5 learning rate
+-------------------------------------------------
+Learning constant: 0.5000
+Number of iterations: 100
+Emails classified correctly: 436/478
+Accuracy before filtering: 91.2134%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%
+
+
+
+Iteration 19 - 100 iterations & 0.1 learning rate
+-------------------------------------------------
+Learning constant: 0.1000
+Number of iterations: 100
+Emails classified correctly: 445/478
+Accuracy before filtering: 93.0962%
+Filtered emails classified correctly: 434/478
+Filtered accuracy: 90.7950%
+
+
+
+Iteration 20 - 100 iterations & 0.66 learning rate
+-------------------------------------------------
+Learning constant: 0.6600
+Number of iterations: 100
+Emails classified correctly: 436/478
+Accuracy before filtering: 91.2134%
+Filtered emails classified correctly: 439/478
+Filtered accuracy: 91.8410%

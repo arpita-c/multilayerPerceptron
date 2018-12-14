@@ -1,0 +1,10 @@
+The comparison between Perceptron, Naive Bayes and Logistic Regression
+is as mentioned below (all numbers are after removing stop words):
+
+Average Accuracy of Perceptron: 93.6778%
+Average Acuracy of Naive Bayes: 94.3515%
+Average Acuracy of Logistic Regression: 82.4268%
+
+From the above data, it can be observed that Perceptron network and
+Naive Bayes almost equivalent accuracies while Logistic Regression has
+a far lower accuracy.
